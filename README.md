@@ -1,2 +1,4 @@
 # TGP
-TGP algorithm
+
+Instructions for TGP Algorithm:
+
