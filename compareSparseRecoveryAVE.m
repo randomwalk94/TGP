@@ -34,7 +34,7 @@ while (step<Mstep+1)
     delta =0;                 % level of noise
 
     
-    ac = 1;
+    ac = 1;                   % ac=0 for Gaussian matrix, ac=1 for Fourier matrix.
     if ac == 0
         A = randn(N,K);              % measurement matrix with gaussian entries
     else
