@@ -7,7 +7,7 @@
 
 clear all
 
-Mstep = 5;
+Mstep = 10;
 % We vary sparsity level from 1 to 50
 
 cycles = 20;
