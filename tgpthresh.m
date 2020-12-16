@@ -14,7 +14,7 @@
 % [lowertau,uppertau] does not satisfy the NPS test
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function optimal_tau = tgpthreshbinary(A,lowertau,uppertau)
+function optimal_tau = tgpthresh(A,lowertau,uppertau)
 
 %% Parameters
 [N,K] = size(A);           % size of A
