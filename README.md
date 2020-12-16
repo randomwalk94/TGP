@@ -4,7 +4,7 @@ Instructions for TGP Algorithm:
 
 - tgp.m: The file implements the TGP algorithm as a function. The **tgp** function takes in measurement matrix A and data vector b and outputs the signal with its support.
 - tgpthresh.m: The file implements finding the thresholding parameter $\tau$ as a function. The **tgpthresh** function takes in measurement matrix A and outputs $\tau$.
-- main_tgp.m: The file runs TGP algorithm. \**RUN THIS FILE*\*. Change matrix measurement matrix A according to your needs.
+- main_tgp.m: The file tests TGP. \**RUN THIS FILE*\*. Change matrix measurement matrix A according to your needs.
 
 For comparision between TGP and CoSaMP:
 
