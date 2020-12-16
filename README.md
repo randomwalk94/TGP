@@ -9,4 +9,4 @@ Instructions for TGP Algorithm:
 For comparision between TGP and CoSaMP:
 
 - ptgp.m and pcos.m are auxiliary functions that output performance data.
-- compareSparseRecoveryAVE.m: \**RUN THIS FILE*\* to compare performance between TGP and CoSaMP. The file will output three performance graphs: *Runtime, Recovered Support, and False Discoveries*.
+- compareSparseRecoveryAVE.m: \**RUN THIS FILE*\* to compare performance between TGP and CoSaMP. The file will output three performance graphs: *Recovery Time, Recovered Support, and False Discoveries*.
