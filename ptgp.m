@@ -23,7 +23,7 @@ tic
 count=0;
 sparx=[];
 datt=dat;
-tol=1e-10;
+tol=0.0001;
 while (count<1)
   
     xx = x;
