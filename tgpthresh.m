@@ -12,6 +12,9 @@
 
 % If the output optimal_tau = -1, it means uppertau
 % [lowertau,uppertau] does not satisfy the NPS test
+
+% Thank Stephen White for giving us the idea of using
+% binary search.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function optimal_tau = tgpthresh(A,lowertau,uppertau)
